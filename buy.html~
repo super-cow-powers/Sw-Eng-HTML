@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Group3 - Home</title>
+    <title>Documentation</title>
     <meta charset="UTF-8">
-    <meta name="description" content="2021/2022 Software Engineering HTML">
-    
     <link href="static/base_style.css" rel="stylesheet" type="text/css" />
     <link href="static/colours.css" rel="stylesheet" type="text/css" />
     <link href="static/fonts.css" rel="stylesheet" type="text/css" />
+
   </head>
   <body>
     <header>
@@ -29,31 +28,8 @@
 	</div>
       </nav>
       <div style="height: 0rem; width: 100%; z-index=-1; background-color: transparent;"/>
-      <div id="logo_div"></div>
     </header>
     
-    <div id="index_about_container"><h2>We are building innovative, novel solutions to teaching Computing in Schools</h2></div>
-    <div class="link_container">
-      
-      <a href="https://royalsociety.org/~/media/policy/projects/computing-education/computing-education-report.pdf">
-	<div class="link_tile">
-	  <img class="link_image" src="static/book.png" alt="Report">
-	  <div class="link_name">
-	    Royal Society Report
-	  </div>
-	</div>
-      </a>
-      
-      <a href="https://jython.readthedocs.io/en/latest/">
-	<div class="link_tile">
-	  <img class="link_image" src="static/py_logo.png" alt="Lang">
-	  <div class="link_name">
-	    Langauge Documentation
-	  </div>
-	</div>
-      </a>
-      
-    </div>
 
   </body>
   <br>
