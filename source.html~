@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Documentation</title>
+    <meta charset="UTF-8">
+    <link href="static/base_style.css" rel="stylesheet" type="text/css" />
+    <link href="static/colours.css" rel="stylesheet" type="text/css" />
+    <link href="static/fonts.css" rel="stylesheet" type="text/css" />
+
+  </head>
+  <body>
+    <header>
+      
+      <nav class="std_nav">
+	<div class="navcontainer">
+	  <a id="navlogoa" href="/"><img src="static/logo.jpg" alt="ShockSoc Logo" id="navlogo"/>Group3</a>
+	  <ul>
+	    
+	    <li><a class="nav-link" href="index.html">Home</a></li>
+	    
+	    <li><a class="nav-link" href="about.html">About</a></li>
+	    
+	    <li><a class="nav-link" href="docs.html">Docs</a></li>
+
+	    <li><a class="nav-link" href="buy.html">Pricing</a></li>
+	    
+	  </ul>
+	</div>
+      </nav>
+      <div style="height: 0rem; width: 100%; z-index=-1; background-color: transparent;"/>
+    </header>
+    <div>
+    <h1>Product Documentation</h1>
+    <div id="testing">
+    <a href="static/surefire-report.html">Read Our Latest Automated Testing Report</a> 
+    </div>
+    </div>
+  </body>
+  <br>
+  <footer class="std_footer">
+    <div id="footer-container">
+      Footer
+    </div>
+  </footer>
+</html>

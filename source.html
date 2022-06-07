@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Documentation</title>
+    <meta charset="UTF-8">
+    <link href="static/base_style.css" rel="stylesheet" type="text/css" />
+    <link href="static/colours.css" rel="stylesheet" type="text/css" />
+    <link href="static/fonts.css" rel="stylesheet" type="text/css" />
+
+  </head>
+  <body>
+    <header>
+      
+      <nav class="std_nav">
+	<div class="navcontainer">
+	  <a id="navlogoa" href="/"><img src="static/logo.jpg" alt="ShockSoc Logo" id="navlogo"/>Group3</a>
+	  <ul>
+	    
+	    <li><a class="nav-link" href="index.html">Home</a></li>
+	    
+	    <li><a class="nav-link" href="about.html">About</a></li>
+	    
+	    <li><a class="nav-link" href="docs.html">Docs</a></li>
+
+	    <li><a class="nav-link" href="buy.html">Pricing</a></li>
+	    
+	  </ul>
+	</div>
+      </nav>
+      <div style="height: 0rem; width: 100%; z-index=-1; background-color: transparent;"/>
+    </header>
+    <div>
+      <h1>Product Source</h1>
+      <hr>
+      <div style="display: inline-flex;">
+      <a href="https://github.com/super-cow-powers/Sw-Eng-G3-Src"><div class="github_src">
+	  <img class="gh_image" src="static/Octocat.png" alt="GitHub">
+	  <p>View on GitHub</p>
+      </div></a>
+      <div style="width: 20px;"></div>
+      <a href="static/source.zip"><div class="github_src">
+	  <img class="gh_image" src="static/down.png" alt="Download">
+	  <p>Download Now</p>
+      </div></a>
+      </div>
+      <hr>
+      <div id="readmeDiv">
+	<h1>Readme</h1>
+      <p>This is the Source for Group 3's 2021/2022 University of York Electronic Engineering Software Engineering Project.<br>
+	It is a graphical Multimedia Application Development suite, programmable in a variety of Languages through bound scripts; it is somewhat simillar to a web browser's ES engine integration, where attached scripts may be executed on user interaction with elements.</p>
+      <h2>Samples</h2>
+      <p>Samples of what can be built with our application can be found in the <em>demo</em> and <em>sales_demo</em> directories.</p>
+      <h2>Building</h2>
+      <p>The project requires Java 11 and OpenJFX 14 or higher, and builds with Maven. To build and run, clone this repository and then run <em>mvn javafx:run</em> which will fetch project dependancies, and then build and run the project. Certain platform-specific configurations are provided, and will be triggered automatically.</p>
+      <h2>Editing</h2>
+      <p>Any editor may be used to edit the project source. However, for easy integration with Maven, we suggest using Netbeans (with the CheckBeans linter extension) or IntelliJ; any support requests for issues relating to Eclipse will not be given priority.</p>
+      <h2>Making Changes</h2>
+      <p>To commit any changes first open a new working branch, and when your changes are complete please open a new Pull Request to request the changes to be merged into Master. Your changes will be automatically tested and linted through the CICD pipeline, reviewed, and then either merged or rejected.</p>
+      </div>
+    </div>
+  </body>
+  <br>
+  <footer class="std_footer">
+    <div id="footer-container">
+      Footer
+    </div>
+  </footer>
+</html>

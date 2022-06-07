@@ -60,6 +60,32 @@ h1, h2 {
     margin: 0;
 }
 
+.github_src {
+    width: 250px;
+    font-family: Raleway-Medium;
+    text-align: center;
+    display: inline-flex;
+    flex-direction: row;
+    border: 2px solid;
+    border-color: black;
+    padding: 10px;
+    color: black;
+    background-color: #ffffe6;
+    text-decoration: none;
+}
+
+.github_src img {
+    max-width: 250px;
+    max-height: 100px;
+}
+
+#readmeDiv {
+    display: inherit;
+    width: 60%;
+    margin: auto;
+    
+}
+
 .index_about_container{
     width: 60%;
     margin: auto;
