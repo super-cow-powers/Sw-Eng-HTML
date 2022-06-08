@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Finance Docs</title>
+    <meta charset="UTF-8">
+    <link href="static/base_style.css" rel="stylesheet" type="text/css" />
+    <link href="static/colours.css" rel="stylesheet" type="text/css" />
+    <link href="static/fonts.css" rel="stylesheet" type="text/css" />
+
+  </head>
+  <body>
+    <header>
+      
+      <nav class="std_nav">
+	<div class="navcontainer">
+	  <a id="navlogoa" href="/"><img src="static/logo.jpg" alt="ShockSoc Logo" id="navlogo"/>Group3</a>
+	  <ul>
+	    
+	    <li><a class="nav-link" href="index.html">Home</a></li>
+	    
+	    <li><a class="nav-link" href="about.html">About</a></li>
+	    
+	    <li><a class="nav-link" href="docs.html">Docs</a></li>
+
+	    <li><a class="nav-link" href="buy.html">Pricing</a></li>
+	    
+	  </ul>
+	</div>
+      </nav>
+      <div style="height: 0rem; width: 100%; z-index=-1; background-color: transparent;"/>
+    </header>
+    <div>
+      <div id="readmeDiv">
+	<h1>Our Financial Information</h1>
+	<p>This page contains our Various financial documents.</p>
+	<hr>
+	<a href="static/finance_proposal.pdf"><h3>Initial Finance Proposal</h3></a>
+	<hr>
+	<a href="static/future_marketing.pdf"><h3>Future Marketing Plan</h3></a>
+	<hr>
+	<a href="static/Financial Report.xlsx"><h3>Financial Report</h3></a>
+	<hr>
+	<a href="static/Financial Business Plan.xlsx"><h3>Financial Business Plan</h3></a>
+	<hr>
+	<a href="static/Financial Business Plan.xlsx"><h3>Time Sheet - Coming Soon!</h3></a>
+	<hr>
+      </div>
+    </div>
+  </body>
+  <br>
+  <footer class="std_footer">
+    <div id="footer-container">
+      David Miall
+    </div>
+  </footer>
+</html>
