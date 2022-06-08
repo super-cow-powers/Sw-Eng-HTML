@@ -11,3 +11,6 @@ Found demo project using JSR-223. Using the technique from the demo I can init J
 
 If a JavaScript engine is wanted, Nashorn is out. There was an old project from Mozilla before Nashorn was released, check if it is still live.
 Added Mozilla Rhino to a test project, it seems to work, but documentation suggests it has bugs in JSR223 mode and has a slightly odd init sequence.
+
+
+      David

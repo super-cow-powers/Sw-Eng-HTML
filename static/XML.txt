@@ -28,3 +28,8 @@ Added XOM to a test app and investigated. Seems to work well, and the extensive 
 **Validation**
 Checked XOM Docs for validation information. Copied the validating Demo into a test project; didn't work initially, but did after checking the Xerces docs and fixing Java Module issues.
 Seems fairly simple to use internal schema documents.
+
+
+
+
+      David
