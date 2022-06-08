@@ -34,23 +34,41 @@
     <div>
       <div id="readmeDiv">
 	<h1>How we utilised Git</h1>
-	<p>This page outlines our testing strategy, including our CICD workflow and our manual Functional Tests</p>
+	<h1>Documentation</h1>
+	<p>To augment our Document Version Control tables we also tracked all of our documentation with Git using a GitHub repository, to ensure that all members had the same view of the documentation, to ensure that document versions did not become mixed or confused, and to allow multiple people to work on the same document at the same time with easy conflict resolution. As the majority of our documents are written in LaTeX, this system works very well.</p>
+	<h2>Logs</h2>
+	<a href="static/doc_master.txt"><h3>master</h3></a>
+	<a href="static/doc_bcbranch.txt"><h3>BCBranch</h3></a>
+	<a href="static/doc_davidworking.txt"><h3>DavidWorkingBranch</h3></a>
+	<a href="static/doc_sambranch.txt"><h3>SamBranch</h3></a>
+	<a href="static/doc_peterwb.txt"><h3>PeterWorkBranch</h3></a>
+	<a href="static/doc_redspec.txt"><h3>reduce-spec</h3></a>
+	<a href="static/doc_finrep.txt"><h3>FinanceReport</h3></a>
 	<hr>
-	<h2>CICD</h2>
-	<p>We utilised GitHub actions CICD pipeline to automatically compile, lint, and run the Unit Test Suite on our Product. This provides quick and clear feedback for developers to and managers to be able to exercise a Test-Driven Development metodology, and to be able to be rapidly alerted to any Integration failures.</p>
-	<p>To test, we utilised JUnit 5 with the Maven Surefire plugin to generate a test report. To lint, we utilised the GitHub super-linter workflow which uses CheckStyle to check the code for compliance to our defined style.</p>
-	<a href="static/maven_test.yml"><h3>Testing Workflow YAML</h3></a>
-	<a href="static/"><h3>Linting Workflow YAML</h3></a>
-	<a href="static/checkstyle.xml"><h3>CheckStyle Configuration</h3></a>
+	<h1>Product Source</h1>
+	<p>To control and distibute our sources, we used a centralised GitHub repository. This allows every member to have an upto date copy of the sources, easily work on the same file as another member without significant overhead, and gives the project management a quick overview of progress and member input.</p>
+	<h2>Logs</h2>
+	<a href="static/src_master.txt"><h3>master</h3></a>
+	<a href="static/src_bcb.txt"><h3>BCBranch</h3></a>
+	<a href="static/src_daviddev.txt"><h3>DavidDev</h3></a>
+	<a href="static/src_fedit.txt"><h3>feature-edit</h3></a>
+	<a href="static/src_fgraphics.txt"><h3>feature-graphics</h3></a>
+	<a href="static/src_fnet.txt"><h3>feature-network</h3></a>
+	<a href="static/src_imd.txt"><h3>fix-image_download</h3></a>
+	<a href="static/src_ftool.txt"><h3>feature-tools</h3></a>
+	<a href="static/src_fscript.txt"><h3>feature-script</h3></a>
+	<a href="static/src_fsave.txt"><h3>feature-save</h3></a>
+	<a href="static/src_fplay.txt"><h3>feature-playable</h3></a>
+	<a href="static/src_ftest.txt"><h3>feature-test</h3></a>
+	<a href="static/src_rwcon.txt"><h3>fix-rework_controller_api</h3></a>
+	<a href="static/src_fiwin.txt"><h3>fix_WindowPath</h3></a>
+	<a href="static/src_lintb.txt"><h3>linting-branch</h3></a>
+	<a href="static/src_sambranch.txt"><h3>sambranch</h3></a>
 	<hr>
-	<h2>Test And Integration Plan and Manual Test Reports</h2>
-	<a href="static/Testing Reports.pdf"><h3>Current</h3></a>
-	<h3>The following old versions were created recently, but from previous git commits</h3> 
-	<a href="static/testold1503.pdf"><h3>Old Version after Feedback</h3></a>
-	<a href="static/testold1403.pdf"><h3>Initial Version</h3></a>
-	<hr>
-	<h2>Latest Automated Test Report</h2>
-	<a href="static/surefire-report.html"><h3>Surefire Report</h3></a>
+	<h2>HTML Tour</h2>
+	<p>The HTML Tour is also in a GitHub Git repository. This provides hosting, so sharing the pages with the group is simple.</p>
+	<h2>Logs</h2>
+	<a href="static/htmlt_master.txt"><h3>master</h3></a>
 	<hr>
       </div>
     </div>

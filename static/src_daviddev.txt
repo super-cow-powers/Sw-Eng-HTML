@@ -1,0 +1,338 @@
+commit ec07e3100f930b42e99f192950b4fc76c7168d46
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 15:50:03 2022 +0100
+
+    Fix show loading gif
+
+commit c2f6d9c0d7c7256b1fc8f64039a4ebd3c75142cf
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 15:40:20 2022 +0100
+
+    Add threaded image loader
+
+commit 566a57829f6dac6be901192cfc25d861084a45a2
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 14:42:47 2022 +0100
+
+    Yet more linter stuff
+
+commit 77842f569031c7a1c8ff9ac5eb9c7a53f26a9df9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 13:32:59 2022 +0100
+
+    More linter stuff
+
+commit 4cc7c44a6c26cc4f265438a6c9e298d2c99590fb
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 13:03:16 2022 +0100
+
+    lint stuff
+
+commit a31b6fd128e6a9e721aa6f51dd8dffda8573f562
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 11:16:27 2022 +0100
+
+    Checkstyle supression comments
+
+commit e14bf061297971f68de0b3a310d6f5cd7e9e0228
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:55:53 2022 +0100
+
+    checkstyle, superlinter
+
+commit 6beca461301a2e4274be6a0bff938410e667f0ea
+Merge: b9435df 6deb71b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:47:20 2022 +0100
+
+    checkstyle config
+
+commit b9435df6561c3440e193ef8a449275ec8d309daf
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:46:39 2022 +0100
+
+    checkstyle config
+
+commit 6deb71be62cbeba8c49ee90a8e4a08fc1c3f0a2c
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Thu Mar 31 00:39:58 2022 +0100
+
+    Update super-linter.yml
+
+commit 5f69706bd5888f9a4a19b06cd95e34f361d68993
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:37:04 2022 +0100
+
+    checkstyle config
+
+commit 14959f0dcfd9817382b108fa8ccf0a7901989654
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:08:12 2022 +0100
+
+    Lint on engine.java
+
+commit 27bca18dabf2323c2185613309631e7ddd1d3e20
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Mar 30 23:08:03 2022 +0100
+
+    Readme and linter yaml
+
+commit 2d548de21179e8dbfb0cef00468e7755b2991068
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Mar 30 23:01:59 2022 +0100
+
+    Update super-linter.yml
+
+commit 8c59ae20a054eef363dca8cb24b0b9c37cea550c
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Mar 30 22:55:54 2022 +0100
+
+    Update super-linter.yml
+
+commit 56de62d9ae8adb38c6f48d1ed0a4af5cd103d631
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Mar 30 22:53:19 2022 +0100
+
+    Create super-linter.yml
+
+commit a3d089b494c9ed88bf33a988fdf265f75f572f90
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Mar 30 22:29:17 2022 +0100
+
+    Make scriptemelent invocable
+
+commit a7ee3d99b3eaf5e667f0c745bcd11fc742a4c509
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Mar 29 11:20:16 2022 +0100
+
+    Add back history
+
+commit 1ad43a9777454702f6ff9de95e9c426576b8dfee
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 28 20:27:17 2022 +0100
+
+    Attach scopes to visualelement scripts
+
+commit 0ff984ab25a207dfdf1449cf09d26fdb0efd96b6
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 28 17:46:43 2022 +0100
+
+    Start scripting feature
+
+commit f4080d0e21deebe21b70a4c3341e59f570a90bd5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 21 10:47:55 2022 +0000
+
+    POM
+
+commit 799f8aa03508c21c40ea1d5b163299f3755d3130
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 18 02:25:37 2022 +0000
+
+    POM and initial size
+
+commit 3d3040d0293f7bdac3cb376f39f399814c6ada90
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 18 01:55:26 2022 +0000
+
+    Update demo 1
+
+commit 07061e9979dad795fa2dbd4108a5152157faf060
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 18 01:07:52 2022 +0000
+
+    begin 1st demo thing
+
+commit b92ed743f619a781ef11132e3e7678e6644812d0
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 17 16:27:22 2022 +0000
+
+    update
+
+commit d1e73e961152e1c18460ae197876823a3e106aa6
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 17 15:27:51 2022 +0000
+
+    Add file chooser
+
+commit 9db1dff255b572223ddfe4442e2e76c438a7be62
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 17 14:36:09 2022 +0000
+
+    Card Select Bar
+
+commit 42f4329752c51f835c6a302c12d87da0b3be40ca
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Mar 16 01:26:37 2022 +0000
+
+    Add shape and image methods. Partial implement get new ID
+
+commit f5fc986d3605fd30533077df808e6a5eb281fe08
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Mar 15 23:57:30 2022 +0000
+
+    Edit tool doc, add hashmap to controler
+
+commit 24d69de8b19b1f4a9503bc46f866accba41a064e
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Tue Mar 15 13:17:33 2022 +0000
+
+    Update tool button handler
+
+commit e5fc70a4348774f3cc5c4b1504a75cf854e32486
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Tue Mar 15 13:07:47 2022 +0000
+
+    Add tool button event handler
+
+commit 44d7027f4f80e74477f0fe31342cdc1ec4b2f56c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 23:10:29 2022 +0000
+
+    Add tool- prefix to tool IDs
+
+commit 1c95033bae43db3e91ec7f3a0078c799844ec5d6
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Mon Mar 14 18:24:02 2022 +0000
+
+    Add tool button
+
+commit 033e3524c0b7cd1e63e7479e09c6197a22d9b896
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 12:42:28 2022 +0000
+
+    Start tools loader
+
+commit 5f087ab6b837cefed41b88dfc73991c429e93724
+Merge: 2ee0390 977dd51
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 10:19:36 2022 +0000
+
+    Merge branch 'DavidDev' of github.com:super-cow-powers/Sw-Eng-G3-Src into DavidDev
+
+commit 2ee03902507a3fb80b7b2bbf1335ba85742e57b3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 10:19:29 2022 +0000
+
+    mac update
+
+commit 977dd51f3e9669e7466aecae026aed45831c412c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 10:15:10 2022 +0000
+
+    update
+
+commit 1dce69219aa158e4b44bb4581689436bff90ed69
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 11 23:09:18 2022 +0000
+
+    Select page colour
+
+commit b07537943932ed1a7105c2099e3eb1c56194d272
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 11 01:15:59 2022 +0000
+
+    update
+
+commit de8e91f6188826f8aa0862e8ce5fd43d1d8ce3c5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 23:53:54 2022 +0000
+
+    update
+
+commit 8cc28928309c2854ed765d2e30b8606509b7170e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 23:52:19 2022 +0000
+
+    Engine sizes initial page
+
+commit 867e8cac8929c66a1a384045afc1fdf73e04593f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 21:51:57 2022 +0000
+
+    Thread comms
+
+commit 7c5ab1c3e6fa7ddd3f07dba157e80330652cbf52
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 18:59:27 2022 +0000
+
+    start engine class
+
+commit 08f8350168d8bc4acbc8ddf53e8d8b0acea29435
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 14:49:24 2022 +0000
+
+    update
+
+commit eafa47ef864c648d2acf844c509c930fc06975a0
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 14:20:12 2022 +0000
+
+    Add about handler
+
+commit 47130aeaff5eabfed121c19ea05c12d06af36bee
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 13:39:22 2022 +0000
+
+    Move example doc
+
+commit 73fc0c416eb8e87ed55da24ca35bb664aa0442f9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Mar 8 12:55:17 2022 +0000
+
+    Pane shadow
+
+commit bc60dbff34e0a38433f5b8c19615f48802a706c3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 7 23:53:19 2022 +0000
+
+    more fxml stuff
+
+commit ad1c47ff86f0237a4c914cf85430675f3c2dd9bb
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 7 23:05:35 2022 +0000
+
+    fxml stuff
+
+commit 6883c0e7aaa6da8508e61779ccb12db8bfdb5867
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 7 16:09:23 2022 +0000
+
+    getters/setters and theme
+
+commit f21f08ec4a7d74f9a066817c91d4befab607f7a9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Mar 5 12:55:32 2022 +0000
+
+    gitignore
+
+commit f27c016fb9e047bb3ff89a5e079f274058d05f76
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Mar 5 12:51:24 2022 +0000
+
+    Custom element classes
+
+commit 33f97d76fa7eaea31c86a1d23f7daa0f7a9f1c72
+Merge: 439bcf6 6fb2810
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 3 22:26:16 2022 +0000
+
+    Begin XML Parse stuff
+
+commit 439bcf676380f40978c40f03b89d048cba11c17f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Feb 28 22:14:42 2022 +0000
+
+    Add XOM to deps
+
+commit 6fb281086d77fcdad69c23d2953e69874001d749
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Feb 28 22:14:42 2022 +0000
+
+    Add XOM to deps
+
+commit 0827b16c998aea332f12dd38e8d2da9334319f13
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Feb 21 00:31:10 2022 +0000
+
+    Init repo

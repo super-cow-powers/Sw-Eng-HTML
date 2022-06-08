@@ -1,0 +1,1181 @@
+commit 4d2724eb070aa4e66779d14837a89fa6b08aace5
+Merge: ddc4cf2 9f4445b
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Jun 8 03:27:02 2022 +0100
+
+    Merge pull request #18 from super-cow-powers/sambranch
+    
+    Merge Sam tests
+
+commit 9f4445b560260eb402a824320affb9ab05f201fd
+Author: ssamuelperry <ssp526@york.ac.uk>
+Date:   Wed Jun 8 02:01:17 2022 +0100
+
+    tests
+
+commit ddc4cf2a5bb8c77a5795d0570ab6ddfdf3aefc35
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 21:55:59 2022 +0100
+
+    Add invalid document parse tests
+
+commit 216501ff23506295b42c7b7a2787e79b61580eac
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 19:37:54 2022 +0100
+
+    Make JavaDoc happy
+
+commit 1ed2150f9716fc261c4fd8d001585e6d4878eadb
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Tue Jun 7 19:35:46 2022 +0100
+
+    javadoc to ci
+
+commit 0586c36360e5c69c0e54e5674b844334bd4b8873
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 11:57:13 2022 +0100
+
+    Readme
+
+commit 481bad493a1e30562758806d8716568b4d932415
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 11:49:58 2022 +0100
+
+    Readme
+
+commit e4709b8c49ffead22bcdd250db5e5a275f4babc1
+Merge: 2692356 2f4d1a6
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 10:57:19 2022 +0100
+
+    Merge branch 'master' of github.com:super-cow-powers/Sw-Eng-G3-Src
+
+commit 2692356966b874a786ce0ac293181ab90ed9c665
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 10:57:07 2022 +0100
+
+    Ambiguous Attribution
+
+commit 2f4d1a635381d727f0ade37cf57a6179108ebda8
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun Jun 5 23:49:59 2022 +0100
+
+    Update sales Demo
+
+commit 748031e34e08adb997c4d79138fef9546171a1c5
+Author: David <dm1306@york.ac.uk>
+Date:   Sun Jun 5 19:27:39 2022 +0100
+
+    Add freebsd specific POM stuff
+
+commit f7eb2a23585a564c86842ad270c9c529f75a09ce
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Jun 4 22:35:37 2022 +0100
+
+    Update sales pres
+
+commit eff29944894bb348495177cddf9e4d6d805cad09
+Merge: 3f20aa8 1087c8d
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Jun 4 15:13:43 2022 +0100
+
+    Merge branch 'feature-test'
+
+commit 1087c8d95188fccd0eaf13eb81967f59960e60f7
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Jun 4 15:12:47 2022 +0100
+
+    Generate report
+
+commit 3f20aa883a08c1007fca7e1e70f77a256af74de1
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Sat Jun 4 15:11:51 2022 +0100
+
+    Update maven_test.yml
+
+commit 897ffc8e34c3e8a408f6e1b1bf30fe681a3138d3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Jun 4 14:50:17 2022 +0100
+
+    Add new tests
+
+commit 8ed23288bbf74ef200cbc21332abeaede650d3c7
+Merge: 0dbb541 4b8acf2
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Jun 4 11:11:15 2022 +0100
+
+    merge in master changes
+
+commit 4b8acf2338025a9778f017898192a24994712353
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Jun 4 00:42:58 2022 +0100
+
+    Update sales pres
+
+commit 1975589c2e3bda26bdf8d568249349d2ad7a5755
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 18:25:03 2022 +0100
+
+    demo change
+
+commit 26d687a1f38cc5b7de08acf7567c9024ced3a0ab
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 18:22:11 2022 +0100
+
+    Add spinning thing
+
+commit 91c6663b8836768a8651e2c58c3132cd063df5be
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 16:43:24 2022 +0100
+
+    Update sales demo
+
+commit 81d0bca9c0dd147f9b2d2cfe5817906ed38ee80b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 16:42:33 2022 +0100
+
+    Add sales demo zip
+
+commit 3af1fb5d512fd8587566b35340f7ddbc2930e0cf
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 16:41:19 2022 +0100
+
+    Add sales demo
+
+commit 0263c595e058ec93041b3afb1e3b86b3d870d7a7
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 16:31:38 2022 +0100
+
+    Py function
+
+commit 0c90625d3eaaeab6a85c831c09b08b5d7a295cec
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 16:26:45 2022 +0100
+
+    Utility methods
+
+commit c97e62d9e83221d473429e2726d6aaf7d3208e16
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 14:00:32 2022 +0100
+
+    Add current page to scripting
+
+commit 26979a0d7140775d8a417a669587a1eacc983500
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 13:35:00 2022 +0100
+
+    Allow storing state
+
+commit a9b0ffef49f1501d320951fc24f3a3ac4976db8b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Jun 2 12:21:54 2022 +0100
+
+    Working text entry
+
+commit e5b65b7e9194ab8482721e142a313be731647710
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Jun 1 19:51:17 2022 +0100
+
+    Fix text prop input
+
+commit 57031e2c69e4fdb3b3fb9e11d4999b227987accc
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Jun 1 19:37:55 2022 +0100
+
+    Remove print on set
+
+commit 3f46c066b67c4d2361a2e8828f283f8c8ad10c34
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Jun 1 19:36:19 2022 +0100
+
+    Add properties editor
+
+commit ee303aab2e8fd76ac364aeb754f1b30e7642373f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Jun 1 15:54:13 2022 +0100
+
+    Add new Cards
+
+commit aeb581cb421803b69943019eb78e9850295208e3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Jun 1 12:01:41 2022 +0100
+
+    Deletable elements. Add delay/duration
+
+commit ddd5762b0d0660f148a284a7937d64ee5314108a
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 31 21:52:32 2022 +0100
+
+    Add shitty code editor
+
+commit 3c8be370bf49db8fa988909aec154c8148df1484
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 31 19:54:59 2022 +0100
+
+    Fix HRefs
+
+commit 70a7e93a0b83be5b1cde39a20ac1808c5cfd7158
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 31 18:08:00 2022 +0100
+
+    Basic working rectangle tool
+
+commit 076e6c7022caa59cf442a9a0b4dba4dbf932e7d7
+Merge: bcf43e0 115474c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 31 12:04:56 2022 +0100
+
+    Merge
+
+commit bcf43e043c2add356ba3215fe0980c9b5c4d0ae9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 31 12:03:43 2022 +0100
+
+    Scale page. Load scripts from Tools
+
+commit 115474cde805e9d5601148b9bf4073fc6ef6b906
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 29 15:54:13 2022 +0100
+
+    Fix build
+
+commit 1d754516eea3c4e3a8048076a41c5fcea16bf332
+Merge: 05aa87f 83658ec
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 29 15:45:36 2022 +0100
+
+    Fix merge conflicts
+
+commit 83658ecc9140a363ac06f662e0190562e1c00ef6
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 29 15:23:33 2022 +0100
+
+    Revert "Began handling of unknown languages in scripting"
+    
+    This reverts commit fbf8d57aa635772f07201c9e0be24e8db3120ed2.
+
+commit fbf8d57aa635772f07201c9e0be24e8db3120ed2
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Sat May 28 16:01:30 2022 +0100
+
+    Began handling of unknown languages in scripting
+
+commit 6c85fc8ccdd34fcbcf4d907d54dbae79fd774353
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri May 27 16:30:31 2022 +0100
+
+    Load tools
+
+commit 5ea39ed45615526e95e3386da92573450f71a795
+Merge: cd00d4c aac739d
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri May 27 12:32:06 2022 +0100
+
+    Merge branch 'master' into feature-edit
+
+commit cd00d4c77e323e6c05ba7937d05565e265633bb9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri May 27 12:32:03 2022 +0100
+
+    Refactor IO. Add tool stuff to engine
+
+commit aac739dad92ae2f7d192675b6c5402579a72111c
+Merge: e049a49 ca138fb
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 26 22:30:59 2022 +0100
+
+    Merge branch 'fix_WindowPath'
+
+commit ca138fb902c5cc1d4840a6357c24aabbf8e3b19c
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Wed May 25 19:06:14 2022 +0100
+
+    Changed v to a V in the Javadoc for setProps
+    
+    IntelliJ hates this, apparently, and won't work if its spelled incorrectly
+
+commit e049a49e8eda8a13a9821d16746d1ef330f24667
+Merge: b589a84 9f64120
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 24 23:59:05 2022 +0100
+
+    Merge branch 'master' into feature-edit
+
+commit b589a844070a4b554d8e387c7d267dcd2becf0a1
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 24 23:57:45 2022 +0100
+
+    Fix segfault on close. Add ability to read line from console to script.
+
+commit 9f6412077e61913c5d6d631060667a52c8c3a39b
+Merge: 779e858 1181108
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Tue May 24 18:32:23 2022 +0100
+
+    Merge branch 'master' of https://github.com/super-cow-powers/Sw-Eng-G3-Src
+
+commit 779e8589310c846ca4bd636fe2d702e54d7cf7ae
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Tue May 24 18:32:15 2022 +0100
+
+    Fix for Window compatibility
+
+commit 05aa87f480be068cfc12b838869f96f0804164db
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Tue May 24 01:32:36 2022 +0100
+
+    Finished linting properly - previous was on older version
+
+commit 1181108c3cfcde5b0fee5bea7eb7d0dc4cadcce5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 23 22:17:20 2022 +0100
+
+    Add props interface. Remove DesignedForExtension from checkstyle config
+
+commit 7694d43469142a847f50efc29c6fe84db352e8d9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 22 22:09:54 2022 +0100
+
+    Fix Save. Allow drag-drop to save
+
+commit 6624a225300c296be85551dc370fb90afab776f0
+Merge: 2d4cd1b a88f949
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 22 16:28:13 2022 +0100
+
+    Merge branch 'master' into feature-edit
+
+commit 2d4cd1b7c97a083262570cc3d716962c8355c1b1
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 22 16:28:10 2022 +0100
+
+    Add edit button
+
+commit a88f9490f0aa19e48e04fc4ec5d956c4951fa922
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed May 18 18:22:49 2022 +0100
+
+    Remove dark mode
+
+commit ed5090279b3360411a73ddf2b843628669e2b97d
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed May 18 18:00:14 2022 +0100
+
+    Fix IO URI issue
+
+commit 320e83002081c26f549ed20d37afceb1934b832e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed May 18 17:54:08 2022 +0100
+
+    Refactor resource extraction
+
+commit be459dd2b7000e30a550b1574ea9194e48173e92
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed May 18 13:56:11 2022 +0100
+
+    Engine utility methods
+
+commit 49bea1dacfdbcfc74f607641df346b30a35f256b
+Merge: a7b6518 731a14f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed May 18 09:53:26 2022 +0100
+
+    merge master changes
+
+commit 731a14f1174ba60f63a8bf205cccddbda455bd0a
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 17 17:29:07 2022 +0100
+
+    Bump maven openjfx to version 18 for compat with Arch libjpeg
+
+commit 75cedbfcc84ea3990d52ea4670906405437750a5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 17 17:25:47 2022 +0100
+
+    Remove arch-specific from pm
+
+commit a7b65189b565dbf128f1adcccab1821a2d50364f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 17 15:47:09 2022 +0100
+
+    Update demo to show player offset
+
+commit c53bd218b928e5e1b02b0920086a8d054366681e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 17 15:44:51 2022 +0100
+
+    Working player, refactor display api. Player os not working though
+
+commit e0c4e6c4fb46bf2339a125783b488b73813e00ae
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 17 11:26:02 2022 +0100
+
+    Slight refactor of api for better symetry
+
+commit 417a5ac428bd262ca0b93a8022c8176e972c1346
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 16 23:39:47 2022 +0100
+
+    Add volume slider
+
+commit 03a9ac685c6439650b51f9c99429a6bb4eb5e010
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 16 16:59:27 2022 +0100
+
+    Working player
+
+commit 4527588a4413955a47a555ca7290ea00a9e406c1
+Merge: 1113b30 a3fcdb4
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 16 11:06:25 2022 +0100
+
+    Merge branch 'feature-edit' into feature-playable
+
+commit a3fcdb493683356919f5b2f3d58deb1d2dd8bff1
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 16 11:06:04 2022 +0100
+
+    Update
+
+commit fd0b7fe0429e5a2f23a103815da8e2bafb135134
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 17:33:17 2022 +0100
+
+    Add empty Io test file
+
+commit 0d4eb181729a9f43f9081d9aebc96c8fd2de7af3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 17:30:03 2022 +0100
+
+    Working save
+
+commit fcb00b5c5ba6943220ce35c430e1d8b167f1239d
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 17:00:34 2022 +0100
+
+    Add to hrefs
+
+commit 09ded53e659c7e546a018a0471d82b48c5134522
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 16:31:23 2022 +0100
+
+    Load from Zip archive
+
+commit 14dc1ce63439ef49a659383902640c781fad4867
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 10:46:11 2022 +0100
+
+    Add local JNA to master
+
+commit 04f2f0501e2dba44abc5effdfb30563bccca81ac
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 10:41:43 2022 +0100
+
+    Add JNA to POM
+
+commit 1113b30da3aa2245a5f83b492df357303a2d9016
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 10:40:03 2022 +0100
+
+    Add JNA to POM
+
+commit 960bbb23942ca35036396b210f1fbaaf6621feae
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 9 23:27:30 2022 +0100
+
+    Begin video. Needs loads more work
+
+commit 0f3676e58f4c55bd0607551da62464e1c7f40fe5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 8 21:35:10 2022 +0100
+
+    BEgin working on media player
+
+commit e1f68ecf09881a258bd1d0357163d20c71ce5e06
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri May 6 01:57:15 2022 +0100
+
+    Update OpenJFX to 14
+
+commit df3fdfdc7ae836c0d9ba97de7ef73e4deb58da95
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed May 4 13:44:58 2022 +0100
+
+    Update
+
+commit d81457d57d95e7aae27cbb2a9ab5fae5613dd937
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed May 4 13:35:42 2022 +0100
+
+    Add Console
+
+commit 5842d08af680ff949bfd0f17e9820d608620fcc8
+Merge: 0c46e96 67564d1
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 3 22:19:17 2022 +0100
+
+    Merge branch 'feature-graphics'
+
+commit 67564d1e285cb7dcc3b0ce6495218bf7e34826e8
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 3 22:19:07 2022 +0100
+
+    Graphics README update
+
+commit 7e45c2f473a2445bcf7c266219010a575568a94b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 3 21:47:46 2022 +0100
+
+    Update
+
+commit 0c46e96794421183962d3c40ba2283db16c1c994
+Merge: 7ece696 fd0e663
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 3 13:09:08 2022 +0100
+
+    Merge branch 'feature-graphics'
+
+commit fd0e6639bb83add8cfd348757f22c7f37422d4e7
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue May 3 13:08:26 2022 +0100
+
+    Add Vertical alignment to text
+
+commit 7ece6960732f3a6ad3619ab287622ccfd5dcb340
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 2 18:54:41 2022 +0100
+
+    update
+
+commit 23a54806098514b61765c0885b26899cab3f206c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 2 18:54:41 2022 +0100
+
+    update
+
+commit e677d7cf570ca0bcf742979d3356e04cac3a88f4
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 2 18:43:05 2022 +0100
+
+    Lines an' that
+
+commit a27d95aa19c7fde8d25b56c8930bfa3574d4ba04
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 2 17:56:50 2022 +0100
+
+    Refactor shape to factory
+
+commit 2c344eca70add462b9e072bbf41c2dd556125d31
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 2 14:30:04 2022 +0100
+
+    Begin refactor to shape factory
+
+commit da6b94bc30aef62b4c86f59d7136e8daf8936e9a
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Apr 30 18:59:56 2022 +0100
+
+    update
+
+commit c12567baa49af86e1425c0a48b67ce537e436552
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Apr 28 16:27:01 2022 +0100
+
+    shadows, alignment, stroke, etc.
+    Use internal schemas.
+
+commit e4d94aff7f5af3d8933f84b343bb8d1dcd99a145
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Apr 27 19:15:11 2022 +0100
+
+    Prevent scroll on arrows. Add more graphics things. Add base script functions
+
+commit 33265a45e3b90cbd4613ce314b62d31eef210ed4
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 26 12:16:47 2022 +0100
+
+    Route hrefs from ui to engine
+
+commit b08e2d8c6d6c6f3473e4e707ec289e3176513e9f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 26 00:11:32 2022 +0100
+
+    Working rich text display and hyperlinks
+
+commit f726cbbb459595a7212e3cce1ef3fa2b63c6c05e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 25 20:48:54 2022 +0100
+
+    Create styled text seg and begin refactoring for use
+
+commit 0dbb541abc9f5e960230aa4dac1486c2a2b43fbd
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Tue Apr 19 13:16:39 2022 +0100
+
+    Testing MainController
+
+commit 81baf2d9c89e33bd7b4c4d6832ca433f015ebd95
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Tue Apr 19 12:04:09 2022 +0100
+
+    Begun Testing
+
+commit 5ac0f7de3e79be95ddaa3b669c47b60454e438ec
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 20:38:40 2022 +0100
+
+    Don't replace shape on update
+
+commit 03251f5cb41285fbee2b77ff3d299e377111e947
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 18:56:02 2022 +0100
+
+    Add menu buttons. Fix engine off-thread calls
+
+commit e3f8bddb676ecfdcb90bfe92c71c93525a767fea
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 17:49:06 2022 +0100
+
+    Serialize to a file
+
+commit a7c346860497684c953396c6a08a7ff3e0ec664f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 16:58:33 2022 +0100
+
+    README
+
+commit fcad97085421f1eacf16be61354134c2ee7e50b9
+Merge: 82cf0d5 bcbdee2
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 16:52:09 2022 +0100
+
+    Merge branch 'master' of github.com:super-cow-powers/Sw-Eng-G3-Src
+
+commit 82cf0d56bebe8bee7a3037277cbd64e059ec751c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 16:51:44 2022 +0100
+
+    pom profile activation
+
+commit bcbdee2356fed54f8e8a0c48cd64ed43369d21ea
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Tue Apr 12 16:42:36 2022 +0100
+
+    Create maven_test.yml
+
+commit 00ecbe4b0295a7e3b54a8eb363a31c6ac163b901
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 16:16:44 2022 +0100
+
+    Add scripting and bindings tests. Add Mozilla Rhino to POM
+
+commit 3662db5db25fd043f71a87e9d2fa6517d67ae501
+Merge: 5c59306 605231d
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 12:35:59 2022 +0100
+
+    Merge branch 'master' into feature-test
+
+commit 605231de1e6b28bd46c0168698f0a639d7052416
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 12:34:49 2022 +0100
+
+    Update pom
+
+commit f53a7a7ca168c1de5e19d05261b1cb564922132a
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 12:31:14 2022 +0100
+
+    Remove module-info
+
+commit 5c59306583bc21ae88d90ab662341e2159f1b0ad
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 11:29:41 2022 +0100
+
+    Pom and engine test
+
+commit a1765bc964fcf421998366a6633db5c0a6835ecd
+Merge: 82380fc efda3fb
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 11:03:47 2022 +0100
+
+    Merge branch 'master' into feature-test
+
+commit efda3fb37f851b50167fd1cc6f9ab86303658265
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 12 10:41:46 2022 +0100
+
+    Add URIs to visual element
+
+commit be3bfe8e7c8ab555ec5420a327aa05696aac17a9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Apr 7 17:38:01 2022 +0100
+
+    Add script to big start page button
+
+commit 396ab7396a92def279dfc5f912024c224f35b8ee
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Apr 7 16:32:37 2022 +0100
+
+    Working onclick callback
+
+commit 5ff5f6257bdc89895a0dc870bef08a03a3dcbc8b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Apr 6 22:14:12 2022 +0100
+
+    update
+
+commit 226ad39f786985dd2b9de5915a23b2b7d73b233b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Apr 6 21:40:17 2022 +0100
+
+    Allow changes from script
+
+commit 465172bb48848b7e6736c48b06cdedbeecf0e071
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Apr 6 20:49:37 2022 +0100
+
+    Rearchitect scripting. Add single IO module
+
+commit b5116ceb240d9ceb9927fa3542de59de3a2c7f8a
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Apr 5 19:36:12 2022 +0100
+
+    Fix missing methods in scripts. Always remember to check the module-info.
+
+commit 82380fc8b9c70d82798e080f2cf5bff90ef78d9c
+Merge: bd053e8 470d35c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 19:46:06 2022 +0100
+
+    Merge branch 'master' into featureUnitBranch
+
+commit 470d35cf57c4ab97e743ffcc16d2d96089cf2597
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 19:44:44 2022 +0100
+
+    Remove ffi so files
+
+commit 4303e813d499b8423670963ea03d40ac80104269
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 19:44:28 2022 +0100
+
+    gitignore
+
+commit 313b51e1ee34fcdda5fe09ab589ede623ae49c06
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 19:43:32 2022 +0100
+
+    Fix zombie thread
+
+commit ed8147cef497d9260a06d4ad9bebcc19ea6d7703
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 19:38:28 2022 +0100
+
+    Add net stuff
+
+commit 8f8dfc219e5947edd13a48c90ab7b0ef78447057
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 19:22:53 2022 +0100
+
+    Remove ref to timer
+
+commit 6642e3852be16400baf7bdce15a35f9b08adefae
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 19:21:25 2022 +0100
+
+    Subclassing thread
+
+commit 4c5033b7b3ac3634c8351cbeacb3ce95131f85da
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 18:24:48 2022 +0100
+
+    Create network package
+
+commit bd053e8762585fb4451f1583a45074399b673525
+Merge: 406dddf c14a70b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 18:03:32 2022 +0100
+
+    Merge branch 'master' into featureUnitBranch
+
+commit 406dddfc68781858ab8c893e38154a862ca3a2db
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 18:00:36 2022 +0100
+
+    update pom etc
+
+commit 454041fe544a70b297552556cfb355147c72b6fc
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 17:50:11 2022 +0100
+
+    Add unit tests
+
+commit 94c3ee92b34f801df1a28bf7150c25d4cf8c0d5e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 15:07:55 2022 +0100
+
+    Allow use external script file
+
+commit c4d3897293f7ff031c837c8282af4776ef2c05b5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 15:06:57 2022 +0100
+
+    Allow use external script file
+
+commit c14a70b7284e7d39728f9e11818f81fb958d9e06
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 14:31:42 2022 +0100
+
+    Fix message fadeout
+
+commit 628b974f78d8744728efda43f6c32462bad4d06d
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Apr 4 14:06:18 2022 +0100
+
+    Working scripting and recursive context search
+
+commit f74d5c17e520dd2f80036472a5825a8da8e5af19
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Apr 1 12:25:07 2022 +0100
+
+    Custom recursive bindings
+
+commit ec07e3100f930b42e99f192950b4fc76c7168d46
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 15:50:03 2022 +0100
+
+    Fix show loading gif
+
+commit c2f6d9c0d7c7256b1fc8f64039a4ebd3c75142cf
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 15:40:20 2022 +0100
+
+    Add threaded image loader
+
+commit 566a57829f6dac6be901192cfc25d861084a45a2
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 14:42:47 2022 +0100
+
+    Yet more linter stuff
+
+commit 77842f569031c7a1c8ff9ac5eb9c7a53f26a9df9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 13:32:59 2022 +0100
+
+    More linter stuff
+
+commit 4cc7c44a6c26cc4f265438a6c9e298d2c99590fb
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 13:03:16 2022 +0100
+
+    lint stuff
+
+commit a31b6fd128e6a9e721aa6f51dd8dffda8573f562
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 11:16:27 2022 +0100
+
+    Checkstyle supression comments
+
+commit e14bf061297971f68de0b3a310d6f5cd7e9e0228
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:55:53 2022 +0100
+
+    checkstyle, superlinter
+
+commit 6beca461301a2e4274be6a0bff938410e667f0ea
+Merge: b9435df 6deb71b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:47:20 2022 +0100
+
+    checkstyle config
+
+commit b9435df6561c3440e193ef8a449275ec8d309daf
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:46:39 2022 +0100
+
+    checkstyle config
+
+commit 6deb71be62cbeba8c49ee90a8e4a08fc1c3f0a2c
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Thu Mar 31 00:39:58 2022 +0100
+
+    Update super-linter.yml
+
+commit 5f69706bd5888f9a4a19b06cd95e34f361d68993
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:37:04 2022 +0100
+
+    checkstyle config
+
+commit 14959f0dcfd9817382b108fa8ccf0a7901989654
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 31 00:08:12 2022 +0100
+
+    Lint on engine.java
+
+commit 27bca18dabf2323c2185613309631e7ddd1d3e20
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Mar 30 23:08:03 2022 +0100
+
+    Readme and linter yaml
+
+commit 2d548de21179e8dbfb0cef00468e7755b2991068
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Mar 30 23:01:59 2022 +0100
+
+    Update super-linter.yml
+
+commit 8c59ae20a054eef363dca8cb24b0b9c37cea550c
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Mar 30 22:55:54 2022 +0100
+
+    Update super-linter.yml
+
+commit 56de62d9ae8adb38c6f48d1ed0a4af5cd103d631
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Mar 30 22:53:19 2022 +0100
+
+    Create super-linter.yml
+
+commit a3d089b494c9ed88bf33a988fdf265f75f572f90
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Mar 30 22:29:17 2022 +0100
+
+    Make scriptemelent invocable
+
+commit a7ee3d99b3eaf5e667f0c745bcd11fc742a4c509
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Mar 29 11:20:16 2022 +0100
+
+    Add back history
+
+commit 1ad43a9777454702f6ff9de95e9c426576b8dfee
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 28 20:27:17 2022 +0100
+
+    Attach scopes to visualelement scripts
+
+commit 0ff984ab25a207dfdf1449cf09d26fdb0efd96b6
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 28 17:46:43 2022 +0100
+
+    Start scripting feature
+
+commit f4080d0e21deebe21b70a4c3341e59f570a90bd5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 21 10:47:55 2022 +0000
+
+    POM
+
+commit 799f8aa03508c21c40ea1d5b163299f3755d3130
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 18 02:25:37 2022 +0000
+
+    POM and initial size
+
+commit 3d3040d0293f7bdac3cb376f39f399814c6ada90
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 18 01:55:26 2022 +0000
+
+    Update demo 1
+
+commit 07061e9979dad795fa2dbd4108a5152157faf060
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 18 01:07:52 2022 +0000
+
+    begin 1st demo thing
+
+commit b92ed743f619a781ef11132e3e7678e6644812d0
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 17 16:27:22 2022 +0000
+
+    update
+
+commit d1e73e961152e1c18460ae197876823a3e106aa6
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 17 15:27:51 2022 +0000
+
+    Add file chooser
+
+commit 9db1dff255b572223ddfe4442e2e76c438a7be62
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 17 14:36:09 2022 +0000
+
+    Card Select Bar
+
+commit 42f4329752c51f835c6a302c12d87da0b3be40ca
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Mar 16 01:26:37 2022 +0000
+
+    Add shape and image methods. Partial implement get new ID
+
+commit f5fc986d3605fd30533077df808e6a5eb281fe08
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Mar 15 23:57:30 2022 +0000
+
+    Edit tool doc, add hashmap to controler
+
+commit 24d69de8b19b1f4a9503bc46f866accba41a064e
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Tue Mar 15 13:17:33 2022 +0000
+
+    Update tool button handler
+
+commit e5fc70a4348774f3cc5c4b1504a75cf854e32486
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Tue Mar 15 13:07:47 2022 +0000
+
+    Add tool button event handler
+
+commit 44d7027f4f80e74477f0fe31342cdc1ec4b2f56c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 23:10:29 2022 +0000
+
+    Add tool- prefix to tool IDs
+
+commit 1c95033bae43db3e91ec7f3a0078c799844ec5d6
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Mon Mar 14 18:24:02 2022 +0000
+
+    Add tool button
+
+commit 033e3524c0b7cd1e63e7479e09c6197a22d9b896
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 12:42:28 2022 +0000
+
+    Start tools loader
+
+commit 5f087ab6b837cefed41b88dfc73991c429e93724
+Merge: 2ee0390 977dd51
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 10:19:36 2022 +0000
+
+    Merge branch 'DavidDev' of github.com:super-cow-powers/Sw-Eng-G3-Src into DavidDev
+
+commit 2ee03902507a3fb80b7b2bbf1335ba85742e57b3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 10:19:29 2022 +0000
+
+    mac update
+
+commit 977dd51f3e9669e7466aecae026aed45831c412c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 10:15:10 2022 +0000
+
+    update
+
+commit 1dce69219aa158e4b44bb4581689436bff90ed69
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 11 23:09:18 2022 +0000
+
+    Select page colour
+
+commit b07537943932ed1a7105c2099e3eb1c56194d272
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 11 01:15:59 2022 +0000
+
+    update
+
+commit de8e91f6188826f8aa0862e8ce5fd43d1d8ce3c5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 23:53:54 2022 +0000
+
+    update
+
+commit 8cc28928309c2854ed765d2e30b8606509b7170e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 23:52:19 2022 +0000
+
+    Engine sizes initial page
+
+commit 867e8cac8929c66a1a384045afc1fdf73e04593f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 21:51:57 2022 +0000
+
+    Thread comms
+
+commit 7c5ab1c3e6fa7ddd3f07dba157e80330652cbf52
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 18:59:27 2022 +0000
+
+    start engine class
+
+commit 08f8350168d8bc4acbc8ddf53e8d8b0acea29435
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 14:49:24 2022 +0000
+
+    update
+
+commit eafa47ef864c648d2acf844c509c930fc06975a0
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 14:20:12 2022 +0000
+
+    Add about handler
+
+commit 47130aeaff5eabfed121c19ea05c12d06af36bee
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 13:39:22 2022 +0000
+
+    Move example doc
+
+commit 73fc0c416eb8e87ed55da24ca35bb664aa0442f9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Mar 8 12:55:17 2022 +0000
+
+    Pane shadow
+
+commit bc60dbff34e0a38433f5b8c19615f48802a706c3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 7 23:53:19 2022 +0000
+
+    more fxml stuff
+
+commit ad1c47ff86f0237a4c914cf85430675f3c2dd9bb
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 7 23:05:35 2022 +0000
+
+    fxml stuff
+
+commit 6883c0e7aaa6da8508e61779ccb12db8bfdb5867
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 7 16:09:23 2022 +0000
+
+    getters/setters and theme
+
+commit f21f08ec4a7d74f9a066817c91d4befab607f7a9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Mar 5 12:55:32 2022 +0000
+
+    gitignore
+
+commit f27c016fb9e047bb3ff89a5e079f274058d05f76
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sat Mar 5 12:51:24 2022 +0000
+
+    Custom element classes
+
+commit 33f97d76fa7eaea31c86a1d23f7daa0f7a9f1c72
+Merge: 439bcf6 6fb2810
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 3 22:26:16 2022 +0000
+
+    Begin XML Parse stuff
+
+commit 439bcf676380f40978c40f03b89d048cba11c17f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Feb 28 22:14:42 2022 +0000
+
+    Add XOM to deps
+
+commit 6fb281086d77fcdad69c23d2953e69874001d749
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Feb 28 22:14:42 2022 +0000
+
+    Add XOM to deps
+
+commit 0827b16c998aea332f12dd38e8d2da9334319f13
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Feb 21 00:31:10 2022 +0000
+
+    Init repo

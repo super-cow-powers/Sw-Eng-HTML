@@ -1,0 +1,1290 @@
+commit b047ebd367c216babc542ca71102e7e3a92b8a99
+Merge: 93bb1c3 8d7ed2c
+Author: David <dm1306@york.ac.uk>
+Date:   Wed Jun 8 13:44:51 2022 +0100
+
+    Merge Boris work on Fin prop
+
+commit 93bb1c3dc192afe0d35b9bfee4f2e16f224ed2fe
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Jun 8 11:47:41 2022 +0100
+
+    Update
+
+commit b164e589ee3161418eb6976b96c818492a91032a
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Jun 8 11:43:49 2022 +0100
+
+    Add User Manual
+
+commit bbd2493e1a0ac6a36a8856a8d38b74f6ac8dc69f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Jun 8 09:50:34 2022 +0100
+
+    Revise Design DOc
+
+commit 6c8bcc7e2782b539cad7b0b4ade8ab8477c723aa
+Merge: a26b85a 1e46960
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Jun 8 09:34:38 2022 +0100
+
+    Merge in master
+
+commit 8d7ed2ccdc5668829d68ed7459eb60000ac811e8
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Wed Jun 8 04:18:49 2022 +0100
+
+    Fix version no. in fun spec
+
+commit a520319ca55911cdb5b33ad9d3931a8d9fe51696
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Wed Jun 8 04:16:49 2022 +0100
+
+    Update revised sale and marketing in fin. prop.
+
+commit e6de20262383bab77ff484ca01dd3c039fbf5c97
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Wed Jun 8 04:04:27 2022 +0100
+
+    Update Loans and Contract in fin. prop.
+
+commit 1ddf35f241ca6d600cbbdb80b470dc59325979e5
+Merge: 1531750 1e46960
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Wed Jun 8 03:59:12 2022 +0100
+
+    Merge branch 'master' into BCBranch
+
+commit a26b85a49b6e2a4273f12b1169b688e05bf6f6c5
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Wed Jun 8 03:19:42 2022 +0100
+
+    Design Document
+
+commit 1e469608e91d69e390cc51c090e641f500e419bc
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 21:49:27 2022 +0100
+
+    Update Test Plan
+
+commit 21d258508c9137b7105e8dfa805e66bee9b7d84e
+Merge: 77355ce 34963ac
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 21:13:46 2022 +0100
+
+    Merge branch 'reduce-spec'
+
+commit 77355ce37ab32911cc48d08d0c079ac7f4057bc7
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 20:18:40 2022 +0100
+
+    Add org chart
+
+commit 2ee5b5fe71b6c5946adbdc32011529100742b068
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Jun 7 18:43:06 2022 +0100
+
+    Add contracts and QA
+
+commit 29770f2c377fb29f171abd15d4e57132b56c6a36
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Fri Jun 3 16:16:03 2022 +0100
+
+    Began Design Document and Spelling fixes to Func Spec
+
+commit f44ed87c48e2faaef69af449dfefd63d652edaaa
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Tue May 31 13:38:45 2022 +0100
+
+    Spell Check and Slight Formatting of Finance Proposal & Func Spec
+
+commit 6ff4d18ef28f492beec66b35ecb88e4376d6b15d
+Merge: 32efa7f 5e7675f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 29 18:16:41 2022 +0100
+
+    Merge branch 'FinanceReport'
+
+commit 5e7675fa26aef299e261f12df6b0884327def3b2
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 29 18:15:51 2022 +0100
+
+    Editorialise a bit. Spell Checking.
+
+commit ac96ef71159caa60e94a1b78a0e864109c1a6aca
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun May 29 15:25:57 2022 +0100
+
+    Remove synctex file
+
+commit 32efa7f1c0d2e97b69fcafd4268ef21b6301c4bb
+Merge: 7b7b4ae 2d3d393
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Thu May 26 21:57:53 2022 +0100
+
+    Merge pull request #17 from super-cow-powers/FinanceReport
+    
+    Finance report
+
+commit 2d3d393954699db8922d3dae4085afc57f625ef9
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu May 26 21:50:21 2022 +0100
+
+    Added a bit more in final section
+
+commit 567f5427cd410ad73a12ec7ee274b57b00273287
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu May 26 21:21:37 2022 +0100
+
+    Added Marketing Plan to GitHub from Drive
+
+commit 34963ac7674b6428af460add398ef0bd824c3e7a
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 12:46:52 2022 +0100
+
+    Remove support for non-zip
+
+commit 74c7af7e9de1db8a71642a35dad25cd1ed195f63
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 10:23:18 2022 +0100
+
+    Remove comments
+
+commit fae905ec6c207eedf96487a199244c1aa8811240
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 10:20:03 2022 +0100
+
+    Revise remote again
+
+commit bc34c21822aa7257fbe6bb3bff5b008a4258c137
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 10:15:34 2022 +0100
+
+    Remove comments in remote
+
+commit 820c4a3f62e8818ddb900587543bb2f3e6d2a92c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 10:00:01 2022 +0100
+
+    Reduce remote and scripting
+
+commit 267c7f038284e3061ac5fe3231e343851e8b0f97
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 09:50:41 2022 +0100
+
+    Reduce MEdia Formats
+
+commit 2cb24ca4403783ea8992bce28155b03c1f0be318
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu May 12 09:44:50 2022 +0100
+
+    reduce base, elements, Media, Nav. Remove Accessibility
+
+commit 7b7b4ae254581dc16e80ca4e37955c39ae8efdc5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon May 2 13:18:19 2022 +0100
+
+    Merge essence of Peter's changes
+
+commit 831a3c10453000876add5a33b2bc52adb7f1292f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Mar 18 09:50:47 2022 +0000
+
+    Re-add Akif to QA Manual role description
+
+commit 15317506c21d84fe92249340c3a257c6869e6908
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Fri Mar 18 05:50:44 2022 +0000
+
+    Update Test plan
+    
+    Unit test basically done but need revision in some
+
+commit 2683b90a020d07ac6e494da6451829f3f50c07e1
+Merge: 4f3909d 293c4d3
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Thu Mar 17 15:15:18 2022 +0000
+
+    Merge remote-tracking branch 'origin/SamBranch' into BCBranch
+
+commit 293c4d364fef961fc1841ebb6223e989e5de8b04
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Mar 17 14:46:17 2022 +0000
+
+    Update test.tex
+
+commit 7705b865ef0d31f4da5ea00f26f8018836423b38
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Mar 17 14:35:10 2022 +0000
+
+    Create test.tex
+    
+    Added revision history input for testing result table.
+
+commit 2a26b463199a6d4d87ef6438773e42b112dfc95d
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Mar 17 14:17:24 2022 +0000
+
+    Create test.tex
+    
+    Added general format of test reports
+
+commit 4f3909d3bead2cd71e6c818f3a21701d2f0fde02
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Tue Mar 15 19:26:37 2022 +0000
+
+    Update Test Doc
+    
+    Unit test added
+
+commit 177fa455a5f7d34d555771e0c7482cb50ee0054f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Mar 15 00:17:45 2022 +0000
+
+    linebreak in test plan
+
+commit fb260dae69a1d51553a6d585de68325426ed51cb
+Merge: 2e71075 dec6933
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Mar 15 00:14:35 2022 +0000
+
+    merge
+
+commit 2e71075c84c3209a873ecc29ced04ef4045b9d8e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Mar 15 00:12:20 2022 +0000
+
+    update testing plan
+
+commit 9bbbc1df8b3779e92ebd879217d082e00be34a3a
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 21:54:40 2022 +0000
+
+    test PDF
+
+commit e17af32daedf9d91710cbf631e6c84f31679f993
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 21:51:27 2022 +0000
+
+    Add Test thingo
+
+commit 9a6087cb101d71d53c21e790349a266fe2c93ba7
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 21:27:40 2022 +0000
+
+    Spellcheck QA
+
+commit 2152605129982df30e82d7b5d0e6cf7d75ecb151
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 21:24:03 2022 +0000
+
+    QA Manual
+
+commit 5f2df3d9acca3c6a87dd69953cd316f9b0cc545b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Mar 14 21:21:52 2022 +0000
+
+    QA Manual
+
+commit dec69332b9a2b1db28e0b82cae4080c82909dc78
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Mon Mar 14 13:23:14 2022 +0000
+
+    Update .gitignore
+
+commit 8a4b3e27a9c63eb4c4c81e1cf3d3060c0e7d07dc
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Mon Mar 14 11:03:07 2022 +0000
+
+    Update finance proposal
+    
+    Update loan in cost section
+    also clean some junk file
+
+commit 33f4b793e06acbddb05d2cb3ebceb673a9981775
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Mon Mar 14 01:37:09 2022 +0000
+
+    Update Finance Proposal
+    
+    Minor change on wording in cost section
+
+commit 693423de06dc1ffb54384097ec62bc4ff62f6eaf
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Mon Mar 14 01:25:32 2022 +0000
+
+    Force push pdf
+
+commit db9a6944b66429ff336f5274eb846fc4a3443c65
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Mon Mar 14 00:57:20 2022 +0000
+
+    Update Financal proposal
+
+commit 7f443152e5bca978917d6ee3ec5cdc2682268a8e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun Mar 13 19:48:34 2022 +0000
+
+    spell check fun_spec
+
+commit cba31d9fb4dec3272be0a9295fd0c868151be608
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun Mar 13 19:46:13 2022 +0000
+
+    Fun Spec Intro thingy
+
+commit 0f494e8940131937925b7f295f73ac7cac6d005b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun Mar 13 19:20:16 2022 +0000
+
+    More functional spec stuff
+
+commit 1dd80d9cc5f51adcea1678cc8c1b44cdb37224d0
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun Mar 13 17:51:36 2022 +0000
+
+    Done upto end of Files
+
+commit 1720ed8f4729f9f795a8fb5621e9f4dd1855a273
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Sun Mar 13 17:07:25 2022 +0000
+
+    Begin Working on Functional Spec more
+
+commit 189ea14b81be6ff57b00a2d278606e7d78bdca03
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 20:26:15 2022 +0000
+
+    Sales and marketing
+
+commit 4fab8f0b83989af6f56cb9b32621e07691c8aebd
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 10 19:48:28 2022 +0000
+
+    Edit upto sales sec
+
+commit 5ed6a6cb3f34216b5b9de5eeec4ea9628c33d447
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 3 12:21:28 2022 +0000
+
+    Further work on fin_prop. Costs, etc.
+
+commit 7c3113e1d4cf1a90d469098d797b77be0acdced4
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 3 12:13:51 2022 +0000
+
+    More work on finance prop
+
+commit 26f34b28bdc9e34546809fed0982ae2bec9b8de3
+Merge: 8fa7afc c9c0192
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 3 00:27:02 2022 +0000
+
+    Revenue stuff
+
+commit 8fa7afc77ab8d4df3f2ec749e1c0568fd0808b95
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 3 00:13:48 2022 +0000
+
+    Working on Finance Proposal Introduction
+
+commit c9c01920555b57b8181be3a7d6a0d8f62af8d071
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Mar 3 00:13:48 2022 +0000
+
+    Working on Finance Proposal Introduction
+
+commit 5056f38c8bf282b92c14801441808985ec44361e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Mar 2 23:02:02 2022 +0000
+
+    Cleanup excess files
+
+commit 5d0446f77140791e1a62aad3c1828d1f15dc7333
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Wed Mar 2 22:51:32 2022 +0000
+
+    Finance proposal update
+    
+    Add project description to Introduction, add budget to loan
+
+commit 2ea5c23449520171cdc68020b95f6f675506dd77
+Merge: aef484b 43d3024
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Feb 25 18:17:00 2022 +0000
+
+    merge
+
+commit aef484bf49e70a9e37fa539b194881394c0a41c3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Feb 25 18:15:32 2022 +0000
+
+    Add Document revision tables to all documents. Split latex preamble into common file
+
+commit 43d30241419b25483b88441919eb0a1a7a040654
+Merge: ab4097d b482e90
+Author: BorisC <65236358+zerozeta00@users.noreply.github.com>
+Date:   Thu Feb 24 23:23:14 2022 +0000
+
+    Merge pull request #16 from super-cow-powers/BCBranch
+    
+     Update finance report section 4
+
+commit b482e9016c3b6d28c3d57a044591b8c32a33f9a9
+Merge: c6553d7 9275e58
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Thu Feb 24 21:59:39 2022 +0000
+
+    Merge branch 'BCBranch' of https://github.com/super-cow-powers/SwEng-G3-Docs into BCBranch
+
+commit c6553d7cbde7e647db0fdf821e7e6b5da81690fc
+Author: zerozeta00 <kyc527@york.ac.uk>
+Date:   Thu Feb 24 21:59:10 2022 +0000
+
+    Finance proposal updated section 4
+
+commit 9275e582fcf5553cfaeb529763a7aa95b9b946c6
+Merge: eb71f44 ab4097d
+Author: BorisC <65236358+zerozeta00@users.noreply.github.com>
+Date:   Thu Feb 24 21:56:24 2022 +0000
+
+    Merge pull request #14 from super-cow-powers/master
+    
+    merge master to BCBranch
+
+commit ab4097d85efb0fda89350255c638345ade341f36
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Feb 24 14:33:08 2022 +0000
+
+    logo file
+
+commit 87339b4210894db9c05d538f33efb1275c707d2f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Feb 24 14:32:03 2022 +0000
+
+    Remove synctex crap
+
+commit d2ff26a88e223013046e2df062193dfe73d0b69b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Feb 24 14:31:32 2022 +0000
+
+    synctex in gitignore
+
+commit 080c77cfdeb7526e219952125334705b8102544d
+Merge: a272956 e801341
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Feb 24 14:24:43 2022 +0000
+
+    Merge remote-tracking branch 'origin/Peter-Branch'
+
+commit a272956624b915f5e2b7d9b1a5433f6429283f3a
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Feb 24 14:24:38 2022 +0000
+
+    logo
+
+commit e8013410f10a10eabce70df1cf5c39f41a428488
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 24 14:13:51 2022 +0000
+
+    Sorting out file structure for my branch
+
+commit 0cc621084973c9755c8da84ea736e72958fa1286
+Merge: 18d0efe 0964f92
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Wed Feb 23 11:57:20 2022 +0000
+
+    Merge branch 'master' into Peter-Branch
+
+commit 18d0efecfd518a23fd8166330c3777e7cc7a6e67
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Wed Feb 23 11:56:02 2022 +0000
+
+    Added Deliverables table to my version
+
+commit bf2c89e8b6cb7e87fd3fe5a2e502fabb20f91a39
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Wed Feb 23 11:31:29 2022 +0000
+
+    Finance Proposal - added powerpoint section. Manual - Tidied up and added finance manager role
+
+commit 0964f92b444d51b699f95292ee07ddc3e29fbf8e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Feb 18 18:05:16 2022 +0000
+
+    add logo
+
+commit 0f725ba4561a7ec270608cd4c162c1322d73758a
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Fri Feb 18 16:23:06 2022 +0000
+
+    Fin
+
+commit d2e749b104a077f64c59401312c2ec00c1016e40
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Fri Feb 18 15:50:26 2022 +0000
+
+    Section 3 and 4 finished
+
+commit c16dc5fe67bb83c75f2b1dfe0d0689499dd973bb
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 17 13:17:03 2022 +0000
+
+    Finance Proposal
+
+commit 3a5542d08196b27fb0ffcd1cfc187d6aaf70b87d
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Wed Feb 16 01:13:58 2022 +0000
+
+    Fixed Title
+
+commit 80704a1fdb77a60fa3e8de424841f7c40aac88a8
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Wed Feb 16 01:13:44 2022 +0000
+
+    Delete finance_proposal.pdf
+
+commit 061efbb2a03cf5faf1e168906aa20612e67470f8
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Wed Feb 16 01:12:05 2022 +0000
+
+    Update finance_proposal.tex
+
+commit 6905077cfed864f4d757b1b6a3e0eac84c55308a
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Tue Feb 15 23:23:35 2022 +0000
+
+    Add files via upload
+
+commit acda4a09389a2aaedcc67947594b86f8a15b40e3
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Tue Feb 15 23:21:26 2022 +0000
+
+    Update finance_proposal.tex
+
+commit 11a021f9853cacad24a4d34ceef7d94e6ae258a9
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Tue Feb 15 23:21:10 2022 +0000
+
+    Delete finance_proposal.tex
+
+commit 2ac7c1c96cb92e8669a5d69d56c64c7f832ce7ce
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Tue Feb 15 23:20:56 2022 +0000
+
+    Create finance_proposal.tex
+
+commit bf1beae6ca69b79881f1e49cad75d94bfb9a66b6
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Tue Feb 15 23:20:10 2022 +0000
+
+    Create finance_proposal.tex
+
+commit eed04d5736d085fdb50c1650ae61e5bd6d1f2b9c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Feb 8 11:53:41 2022 +0000
+
+    Update manual pdf@
+    :
+
+commit eb71f44bb992def932d774fb5a77b30f75e48b6f
+Author: BorisC <65236358+zerozeta00@users.noreply.github.com>
+Date:   Tue Feb 8 11:42:37 2022 +0000
+
+    Update Deliverable table
+
+commit 55add7aa6f40fa63338fe127d5da081827926884
+Merge: 4cb0c35 19d2030
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Feb 8 11:23:35 2022 +0000
+
+    fix merge fun_spec.tex
+
+commit 4cb0c355d6dca518ef702b6313e8dbcd304dc6a6
+Merge: 2a24fb5 fd91217
+Author: BorisC <65236358+zerozeta00@users.noreply.github.com>
+Date:   Mon Feb 7 22:46:25 2022 +0000
+
+    Merge pull request #10 from super-cow-powers/BCBranch
+    
+    Upade Deliverable table
+
+commit 19d2030ea3a3576f1cb6746cd5e9ca43b817b691
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Mon Feb 7 16:53:06 2022 +0000
+
+    PDF of manual.tex, same changes
+
+commit 05c8f0e5afef48578350ae908fbd8d1b91ec637d
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Mon Feb 7 16:51:59 2022 +0000
+
+    Add Metrics, Intro, Fix Spelling and Tidy Up
+    
+    Changed Secretariat and Make the Tea to Business Manager and Deliverable Overview respectively - can be changed later but thought they should be a bit more professional
+
+commit 2a24fb591d0bc0918c7fabce0fe523e2d9e0daa9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Feb 7 13:26:02 2022 +0000
+
+    PWS from SSH
+
+commit fd9121760c3429585ee5d4354e53d51af1e3fadc
+Author: BorisC <65236358+zerozeta00@users.noreply.github.com>
+Date:   Mon Feb 7 11:54:53 2022 +0000
+
+    Update manual
+    
+    both pdf and latex updated
+
+commit 297439672f3496b5e7c26f4987f2c2e59b04fc8f
+Merge: 069e6b8 c42e1f1
+Author: BorisC <65236358+zerozeta00@users.noreply.github.com>
+Date:   Mon Feb 7 11:33:12 2022 +0000
+
+    Merge pull request #9 from super-cow-powers/master
+    
+    Copy to BCBranch
+
+commit c42e1f1fad753235cbb7e2cc107ff519399f3945
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Feb 4 15:35:38 2022 +0000
+
+    Comment out license part and vlcj, other small edits
+
+commit df6d9838039c74333b93968851e074241daebb07
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Feb 4 15:25:39 2022 +0000
+
+    add PWS
+
+commit 60cd889579bade94ad6a3eea7202bb17459bac50
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Feb 4 15:23:25 2022 +0000
+
+    Update Card section, and ref to scripting
+
+commit 9a7fbeab08ac07e3ac1199b7b36577213a900ceb
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 3 14:07:50 2022 +0000
+
+    Delete Func_Spec (1).pdf
+
+commit a68a24f9c4fb33bf9ff6dddef3223a342dbdfe2d
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 3 14:07:24 2022 +0000
+
+    Most recent PDF
+
+commit dc08b8835fd30f53c9dc08fa92bb0c0647163f23
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 3 14:06:24 2022 +0000
+
+    Update fun_spec.tex
+
+commit fa7c408c499ec09782884c489f2837fa7004ea8a
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 3 14:01:42 2022 +0000
+
+    PDF of most recent .tex file
+
+commit 7d395096e2fa600031b7446ae65e262b70b30d45
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 3 14:01:14 2022 +0000
+
+    Delete Func_Spec.pdf
+
+commit 31bd62c36cd08ebab4446be3c907d167d01f7dde
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 3 14:00:43 2022 +0000
+
+    Added some clarifications and fixed spelling
+
+commit b694a8b66f974d05c47b4b55e420fc2a4efae657
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Feb 3 13:57:34 2022 +0000
+
+    update funspec pdf
+
+commit 069e6b849df949ed96ffb27c2b26b438c7a12cef
+Merge: ad8d200 2ee0a81
+Author: BorisC <65236358+zerozeta00@users.noreply.github.com>
+Date:   Thu Feb 3 13:52:19 2022 +0000
+
+    Merge pull request #7 from super-cow-powers/master
+    
+    Copy from master
+
+commit 643d3a65c5ecb6bf5b4126c36f871a4691f3c549
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 3 13:51:10 2022 +0000
+
+    Update fun_spec.tex
+
+commit 73b33941f8679be55fc4e163c11c4533bbf1a55c
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 3 13:50:48 2022 +0000
+
+    Sams Pictures and my Card Stuff
+
+commit 2ee0a8153a6401f45ba59da2399ebb9929d05e98
+Merge: ad8d200 e1bb3b1
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Feb 3 13:43:25 2022 +0000
+
+    Merge pull request #6 from super-cow-powers/SamBranch
+    
+    Sam branch
+
+commit e1bb3b164ca82cfd96283d58aaf61adfdf4e1b85
+Merge: 4ade062 ad8d200
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Feb 3 13:43:18 2022 +0000
+
+    Merge branch 'master' into SamBranch
+
+commit ad8d20064457115da63f099e2100d29290b02bb6
+Merge: 873ea48 57a2327
+Author: bjss501 <77847137+bjss501@users.noreply.github.com>
+Date:   Thu Feb 3 13:28:31 2022 +0000
+
+    Merge pull request #5 from super-cow-powers/ssamuelPerry-patch-1
+    
+    Update fun_spec.tex
+
+commit 57a2327c750a81635d1cc62dc4463c0ad7f85038
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Feb 3 13:24:36 2022 +0000
+
+    Update fun_spec.tex
+    
+    Added UI flowchart - need UI_Flow.PNG
+
+commit 873ea488b5f400375af065b1d51416c6e2c74740
+Merge: c8dff6a 0dcabd2
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Feb 3 13:17:53 2022 +0000
+
+    Merge pull request #3 from super-cow-powers/Peter-Branch
+    
+    Update fun_spec.tex
+
+commit 4ade062c73c23b8700f3512dce66bbe70fff7e49
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Feb 3 13:17:39 2022 +0000
+
+    Add files via upload
+
+commit c19fe422bb2b2ab00e260e59a0589d73f56bfe06
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Jan 27 14:36:55 2022 +0000
+
+    Update fun_spec.tex
+
+commit a09b08a7db02fb3027e99775f4808ade7925cc67
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Jan 27 14:27:39 2022 +0000
+
+    Update fun_spec.tex
+
+commit 5eb0c8c5be9d23811e0291d8182cb023626a1e48
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Jan 27 14:26:56 2022 +0000
+
+    Add files via upload
+
+commit 554787f3e656e5e0974326366ad37ca9352ffc56
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Jan 27 14:26:10 2022 +0000
+
+    Update fun_spec.tex
+    
+    added flowchart for UI
+
+commit f4be447f2f7eda0997fed39985661d1e180b4573
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Jan 27 14:19:41 2022 +0000
+
+    Update fun_spec.tex
+
+commit 038beac66a14dbe939c4a082d083c708412f8840
+Author: Samuel Perry <79091520+ssamuelPerry@users.noreply.github.com>
+Date:   Thu Jan 27 14:19:12 2022 +0000
+
+    Update fun_spec.tex
+
+commit 0dcabd2c477cbbfb3371fa0c1298044d74a5a42e
+Author: PeterG184 <78268297+PeterG184@users.noreply.github.com>
+Date:   Thu Jan 27 14:01:24 2022 +0000
+
+    Update fun_spec.tex
+
+commit c8dff6a2664fbd5e42f92273b6a0f119a94b5352
+Merge: 2de57ec 09f2289
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Jan 21 00:38:02 2022 +0000
+
+    Merge branch 'DavidWorkingBranch'
+
+commit 09f2289ae63df124f6a2f0ecfd6124c82c55622d
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Jan 21 00:35:07 2022 +0000
+
+    Edit to Stuart initial response
+
+commit 2de57ecf02a107a59d80a64f9110aa9f1528b4e0
+Author: David <dm1306@york.ac.uk>
+Date:   Fri Dec 3 15:33:35 2021 +0000
+
+    pdfs
+
+commit 1dd718673d9fe77935ba6c41cbe2c341df40e664
+Author: David <dm1306@york.ac.uk>
+Date:   Fri Dec 3 15:32:57 2021 +0000
+
+    Comment out revisions
+
+commit 9e8cba7d74ec4691c0609fd4a7ff5d2a4541cb4d
+Author: David <dm1306@york.ac.uk>
+Date:   Thu Dec 2 01:08:02 2021 +0000
+
+    Add terms section in appendix
+
+commit 5bbb698682f1c2463dfd91a4f7c96b61291d8238
+Author: David <dm1306@york.ac.uk>
+Date:   Thu Dec 2 00:50:31 2021 +0000
+
+    formatting
+
+commit 712dd4beb3a59907d2d09ca69be39028cc2329f9
+Author: David <dm1306@york.ac.uk>
+Date:   Thu Dec 2 00:47:20 2021 +0000
+
+    Add descriptions, risks, and QA metrics from drive sheet
+
+commit 31643c4283b3fb53f39fd3ae8579c0a3d254d6af
+Author: David <dm1306@york.ac.uk>
+Date:   Tue Nov 30 22:43:31 2021 +0000
+
+    Readme
+
+commit 82d9c3f6c4be713f62e2cd326a50bed16c4b534e
+Author: David <dm1306@york.ac.uk>
+Date:   Tue Nov 30 22:42:02 2021 +0000
+
+    Readme
+
+commit e62ebf8b6f064768f9014a796e1c5c9a79a4fa0c
+Author: David <dm1306@york.ac.uk>
+Date:   Tue Nov 30 22:38:14 2021 +0000
+
+    Infrastructure role expand. Spelling
+
+commit f999812f8faa36907dde38bec59243c23508cdb2
+Author: David <dm1306@york.ac.uk>
+Date:   Tue Nov 30 22:31:48 2021 +0000
+
+    Expand Deliverables a bit
+
+commit c6a24e39ac3ae36d3f006c28b5587b03673755e7
+Author: David <dm1306@york.ac.uk>
+Date:   Tue Nov 30 22:21:09 2021 +0000
+
+    Fix latex error
+
+commit d104703e421e13fe40a1c15b22abcb87d9699b45
+Author: David <dm1306@york.ac.uk>
+Date:   Tue Nov 30 22:17:40 2021 +0000
+
+    Expand Methodology
+
+commit 6ed5cdcf07b6bda1b21afa4e21dd4217e2b3975a
+Author: David <dm1306@york.ac.uk>
+Date:   Tue Nov 30 19:25:28 2021 +0000
+
+    Formatting, expand some descriptions
+
+commit ad0eea36572c8ad11a2582e83cc8af6239d4e6e3
+Author: David <dm1306@york.ac.uk>
+Date:   Tue Nov 30 16:23:51 2021 +0000
+
+    Added role description
+
+commit d3f5702f6cc1892faf811fd4726235c25b0d485b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 30 14:57:50 2021 +0000
+
+    add more stuff to qa
+
+commit b8984155f382b30178d7c9a54800e369faaa5b86
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 30 10:40:49 2021 +0000
+
+    Add Tables and stuff
+
+commit 3b68785298436df50a8c14ab37cf0fcc0459bae3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Nov 19 09:53:39 2021 +0000
+
+    Tidy before send to Stuart
+
+commit 2197cd60a944528c3eb2f5cb33473b782cdd6c6e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 21:50:52 2021 +0000
+
+    overview note
+
+commit 77caae2de5ae3327ad160e02371d6463017fc15f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 21:48:47 2021 +0000
+
+    Expand on Remote
+
+commit 85beb2c2f4cfa17331816d842e2de56586d487bd
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 21:34:05 2021 +0000
+
+    Fun-spec Draft 1
+
+commit c3467e06f144987c5c5d946306a52ba3812af526
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 20:59:43 2021 +0000
+
+    Shift persistance
+
+commit 7eb992bd2ba612c24a62067d6d7c8664d735c036
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 20:56:58 2021 +0000
+
+    UI Behaviour
+
+commit 99dca9887d0150f4a8b2c47dcd80ccab2ed33ba0
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 20:48:57 2021 +0000
+
+    Partial UI section rewrite
+
+commit f73704de3f26e33bf63092824f9aaa7f57605808
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 20:23:52 2021 +0000
+
+    gen pdfs
+
+commit c4c50f23bdc204cbad8146a5cf97808145e97b7f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 20:15:02 2021 +0000
+
+    newpages
+
+commit 7cff0abffbba483678dd17c32b0caebaa8a6eb5f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 20:05:40 2021 +0000
+
+    Add commit hash to doc
+
+commit a39ec6078a39b3e827c783c6f5d839c43c7ee45e
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 19:53:05 2021 +0000
+
+    Peter UI PDF gen
+
+commit 9a7a52b5001fafc75a88b99134bb267ff682e754
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 18 19:52:50 2021 +0000
+
+    Peter UI
+
+commit 91ce44d9884518b05922fccf43966de7090e6111
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 17 12:59:26 2021 +0000
+
+    Update README.md
+
+commit e1e7ffcafbf3271cd243618f732d41e074ed6cf0
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 17 12:27:53 2021 +0000
+
+    Remove capitalised dir
+
+commit 8c8e41702280ea7b1505310f2754c7047e011b9c
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 17 12:20:23 2021 +0000
+
+    more stuff
+
+commit d276e36e896f3e7c858fdb18222f7453e59361d7
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 16 22:05:14 2021 +0000
+
+    Update PDF:
+
+commit f006187bdebc948ac452e2a023f392ccbc9f570b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Nov 15 16:58:53 2021 +0000
+
+    Add \'User\' everywhere
+
+commit de53419d15223d677b67a7ee0e8d7d6ba4095a63
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Tue Nov 9 19:54:58 2021 +0000
+
+    Update CODEOWNERS
+
+commit 713e3558f01e899bf3cac1e8ec87ab8892903db6
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 9 19:52:27 2021 +0000
+
+    CODEOWNERS
+
+commit 0d3d7b1702c296e0ecaf006147276eddba55d2b3
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 9 19:46:53 2021 +0000
+
+    PDFs
+
+commit ad5d3231e549ebf161901622393e2da618a9d4e6
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 9 19:46:07 2021 +0000
+
+    rename Docs dir
+
+commit 8f2a93c961fd95feb1848db6f090a677f73cfd75
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 9 19:42:27 2021 +0000
+
+    gen PDF
+
+commit df4803546bcca5c05cb99078da15f8529d61367b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 9 19:37:17 2021 +0000
+
+    Spelling, punctuation
+
+commit d2a2302de9330a37c5c48eb81ed07034322dae4f
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 9 19:32:34 2021 +0000
+
+    update gitignore
+
+commit 749879091c12868fc2763f2ab55a262dcaabb835
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 9 19:30:54 2021 +0000
+
+    Terms, Remote Interface, Scripting
+
+commit f37b0dccf77a8878ed6b0688ced489d802eedee5
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Tue Nov 9 18:20:54 2021 +0000
+
+    Add new sections@
+
+commit c48da607fc42ae3435fdf0aa44e6df61de534089
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Nov 8 19:27:29 2021 +0000
+
+    QA Manual PDF
+
+commit 6d931d2e06c86fcd5087e925aae2c6116044e47b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Nov 8 19:27:08 2021 +0000
+
+    functional spec PDF
+
+commit 74ffd5af110f473453c4be6e3c8ab9ceeb709a00
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Nov 5 15:05:54 2021 +0000
+
+    fun
+
+commit 0845c126bc2979ab2ef43802fada78e60cef6634
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Thu Nov 4 00:10:19 2021 +0000
+
+    Update README.md
+
+commit 56718927911ac3d19425f0a7f9a560d6215a18f3
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Thu Nov 4 00:08:14 2021 +0000
+
+    Update docs-CI.yml
+
+commit ee9b746e4426b6746157d7d5cfb08412532ce58d
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Thu Nov 4 00:06:55 2021 +0000
+
+    Update manual.tex
+
+commit bb17806f22863432f0b243c51f5083b4633f30fa
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Thu Nov 4 00:06:02 2021 +0000
+
+    Update docs-CI.yml
+
+commit c86031ab75735aa4e2fc70920e4c8f11d7399fa6
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Thu Nov 4 00:01:35 2021 +0000
+
+    test commit
+
+commit b814e976493f477e959beac03537bcb5497ef8e7
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Thu Nov 4 00:00:51 2021 +0000
+
+    Update docs-CI.yml
+
+commit 790dbc5e2599be5825ed09d915d9defa256db295
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 3 23:56:39 2021 +0000
+
+    test commit
+
+commit 04b913efffa0672ced5cbda2fbbcfbd9b31ab1fb
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:53:43 2021 +0000
+
+    Update docs-CI.yml
+
+commit b114e2868252af98a82a67ae100b61f2049b9c79
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:52:44 2021 +0000
+
+    Update docs-CI.yml
+
+commit 53ccd0df2cf6977499c1b3573570fce9b345e89c
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:51:43 2021 +0000
+
+    Update README.md
+
+commit 0e9ec153a7159bcfeb0f8d61c0aeb6e6f899e24e
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:51:31 2021 +0000
+
+    Update README.md
+
+commit 2dfaa543ce63d731fdbbdedca6abba8ee0236801
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:49:44 2021 +0000
+
+    Update README.md
+
+commit 457e5313fc354d9a33248ead52da3edbde3aa9f6
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:49:23 2021 +0000
+
+    Update README.md
+
+commit f3392f829d7b479322982ae794589f960b08f152
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:48:38 2021 +0000
+
+    Update docs-CI.yml
+
+commit 607e881f7e1c1314b365848d09951194a891fb32
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:48:07 2021 +0000
+
+    Update README.md
+
+commit c8c6c09aba56cf63a5946310018c737f4deb5d3c
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:27:31 2021 +0000
+
+    Update docs-CI.yml
+
+commit 3062a4893d083a040c4463d2486611bca8721f27
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:26:50 2021 +0000
+
+    Update docs-CI.yml
+
+commit a0420579435be4436e374dc024cae4e67259ba2d
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:23:43 2021 +0000
+
+    Update docs-CI.yml
+
+commit fecfa68d37667deeecf0526ff87ba2b70154fdc9
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 23:17:26 2021 +0000
+
+    Update docs-CI.yml
+
+commit 72516567bd948d0e9c637f7875468af2e1c6192d
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 3 20:51:11 2021 +0000
+
+    move docs workflow
+
+commit 9e93f59eff628fb52578cdc79d6c05bbfa425227
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 3 20:47:13 2021 +0000
+
+    gitignore
+
+commit acfb717c547f5924628729b68e73bce5fd14dac6
+Merge: 9cc0d5a e3c5760
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 3 20:46:08 2021 +0000
+
+    Merge branch 'master' of github.com:super-cow-powers/SwEng-G3
+
+commit 9cc0d5a48126e4e5ed765aa5e0c91792a644cec9
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 3 20:38:27 2021 +0000
+
+    test commit
+
+commit 86a19188f16902d109f4ea3b4d548175197f9abd
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 3 20:38:00 2021 +0000
+
+    test commit
+
+commit 6d2c168044cf8bb58be46556f6544812c0501c53
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 3 20:37:30 2021 +0000
+
+    test commit
+
+commit 6bcb8a2eb0720b2a962a289b93f084e05da0bf87
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 3 20:36:53 2021 +0000
+
+    test commit
+
+commit 284fa3c0feee845f16c960270c5e89fffc6913f1
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Wed Nov 3 20:34:07 2021 +0000
+
+    Test commit
+
+commit e3c57603238a9586796bf26d214ffbf06b1cb263
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Wed Nov 3 20:33:21 2021 +0000
+
+    Create docs-CI.yml
+
+commit c30adac17e26d5056db8161bb45a2211bda98bcf
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Mon Nov 1 14:31:02 2021 +0000
+
+    Add document files
+
+commit 601b92c64435b2a32d7e1c2be1ea35bef0642c0b
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Oct 22 15:58:44 2021 +0100
+
+    init dirs
+
+commit 384ec99ede7da5aae37aff47d95372fc4f78bc88
+Author: super-cow-powers <dm1306@york.ac.uk>
+Date:   Fri Oct 22 15:58:11 2021 +0100
+
+    init
+
+commit 5fe26076df288ee8d0ffc2e61920016b15dc8f36
+Author: David <56324279+super-cow-powers@users.noreply.github.com>
+Date:   Fri Oct 22 14:58:25 2021 +0100
+
+    Initial commit
