@@ -1,0 +1,13 @@
+JSR-223
+
+Sun/Oracle built-in Nashorn JavaScript engine is deprecated from Java 15 up (can't use Nashorn).
+
+Python scripting engine (Jython) docs suggest JSR is possible, but encourage their own interfaces.
+
+After building a test application, the custom Jython interface is no better than the JSR223 interface, but better documented.
+
+Found demo project using JSR-223. Using the technique from the demo I can init Jython as a JSR223 engine fine.
+
+
+If a JavaScript engine is wanted, Nashorn is out. There was an old project from Mozilla before Nashorn was released, check if it is still live.
+Added Mozilla Rhino to a test project, it seems to work, but documentation suggests it has bugs in JSR223 mode and has a slightly odd init sequence.

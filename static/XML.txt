@@ -1,0 +1,30 @@
+JAXB
+ - Not that well known or used
+ - Was part of Java, now Jakarta EE
+ - Can be a bit inflexible
+ - Uses Annotations to Unmarshall to POJOs
+
+StAX
+ - Very Efficient
+ - Pain to write data out again
+ - Simple
+
+Dom4j/Generic DOM lib
+ - Wildly inefficient
+ - Not particularly correct
+ - Simple
+ - Slightly poor docs (dom4j)
+
+XOM
+ - Reasonably Efficient
+ - Very Flexible - extend and override
+ - Not that well known
+ - Fairly simple
+ - Unmarshals XML to Objects via factories.
+ - Designed by a single well-respected author
+
+Added XOM to a test app and investigated. Seems to work well, and the extensive documentation and demo is very helpful.
+
+**Validation**
+Checked XOM Docs for validation information. Copied the validating Demo into a test project; didn't work initially, but did after checking the Xerces docs and fixing Java Module issues.
+Seems fairly simple to use internal schema documents.
