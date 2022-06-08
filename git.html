@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Git</title>
+    <meta charset="UTF-8">
+    <link href="static/base_style.css" rel="stylesheet" type="text/css" />
+    <link href="static/colours.css" rel="stylesheet" type="text/css" />
+    <link href="static/fonts.css" rel="stylesheet" type="text/css" />
+
+  </head>
+  <body>
+    <header>
+      
+      <nav class="std_nav">
+	<div class="navcontainer">
+	  <a id="navlogoa" href="/"><img src="static/logo.jpg" alt="ShockSoc Logo" id="navlogo"/>Group3</a>
+	  <ul>
+	    
+	    <li><a class="nav-link" href="index.html">Home</a></li>
+            
+            <li><a class="nav-link" href="about.html">About Us</a></li>
+
+            <li><a class="nav-link" href="our-product.html">Our Product</a></li>
+            
+            <li><a class="nav-link" href="docs.html">Dev</a></li>
+
+            <li><a class="nav-link" href="future.html">Future</a></li>
+	    
+	  </ul>
+	</div>
+      </nav>
+      <div style="height: 0rem; width: 100%; z-index=-1; background-color: transparent;"/>
+    </header>
+    <div>
+      <div id="readmeDiv">
+	<h1>How we utilised Git</h1>
+	<p>This page outlines our testing strategy, including our CICD workflow and our manual Functional Tests</p>
+	<hr>
+	<h2>CICD</h2>
+	<p>We utilised GitHub actions CICD pipeline to automatically compile, lint, and run the Unit Test Suite on our Product. This provides quick and clear feedback for developers to and managers to be able to exercise a Test-Driven Development metodology, and to be able to be rapidly alerted to any Integration failures.</p>
+	<p>To test, we utilised JUnit 5 with the Maven Surefire plugin to generate a test report. To lint, we utilised the GitHub super-linter workflow which uses CheckStyle to check the code for compliance to our defined style.</p>
+	<a href="static/maven_test.yml"><h3>Testing Workflow YAML</h3></a>
+	<a href="static/"><h3>Linting Workflow YAML</h3></a>
+	<a href="static/checkstyle.xml"><h3>CheckStyle Configuration</h3></a>
+	<hr>
+	<h2>Test And Integration Plan and Manual Test Reports</h2>
+	<a href="static/Testing Reports.pdf"><h3>Current</h3></a>
+	<h3>The following old versions were created recently, but from previous git commits</h3> 
+	<a href="static/testold1503.pdf"><h3>Old Version after Feedback</h3></a>
+	<a href="static/testold1403.pdf"><h3>Initial Version</h3></a>
+	<hr>
+	<h2>Latest Automated Test Report</h2>
+	<a href="static/surefire-report.html"><h3>Surefire Report</h3></a>
+	<hr>
+      </div>
+    </div>
+  </body>
+  <br>
+  <footer class="std_footer">
+    <div id="footer-container">
+      David Miall
+    </div>
+  </footer>
+</html>
